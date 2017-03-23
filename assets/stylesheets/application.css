@@ -4,14 +4,3 @@
 /* Exemplificando o uso de Fontes do Google - Vidaloka e IndieFlower */
 /* Nem todas as fontes são Truetype - ttf*/
 /* Os formatos mais atuais são WOFF e WOFF2*/
-
-
-@font-face {
-  font-family: 'IndieFlower';
-  src: url('/assets/fonts/IndieFlower.ttf') format('truetype');
-}
-
-@font-face {
-  font-family: 'Vidaloka';
-  src:  url('/assets/fonts/Vidaloka-Regular.ttf') format('truetype');
-}
